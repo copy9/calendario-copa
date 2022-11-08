@@ -1,3 +1,5 @@
+![cats](https://user-images.githubusercontent.com/109824227/200675168-adc56b75-93ee-4663-9338-4ba3c3c072c2.jpg)
+
 <h1 align="center"> Calendario Copa </h1>
 
 <p align="center">
@@ -11,13 +13,12 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Calendario da copa" src="github/capa.png" width="100%">
+  
 </p>
 
 ## 🚀 Tecnologias
